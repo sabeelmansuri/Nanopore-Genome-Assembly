@@ -2,9 +2,9 @@
 
 The following is a tutorial that demonstrates a pipeline used for analysis of Oxford Nanopore genetic data. This tutorial will require the following (installation instructions are included below):
 
-Canu Assembler [https://canu.readthedocs.io/en/latest/]
-Bandage [https://rrwick.github.io/Bandage/]
-Prokka [https://github.com/tseemann/prokka]
+[Canu Assembler](https://canu.readthedocs.io/en/latest/)  
+[Bandage](https://rrwick.github.io/Bandage/)  
+[Prokka](https://github.com/tseemann/prokka)  
 
 
 ## Installation
@@ -20,12 +20,12 @@ make
 
 ### Bandage
 
-Bandage is an assembly visualization software. Install it by visiting this link [https://github.com/rrwick/Bandage/releases/], and downloading the version appropriate for your device.
+Bandage is an assembly visualization software. Install it by visiting [this link] (https://github.com/rrwick/Bandage/releases/), and downloading the version appropriate for your device.
 
 
 ### Prokka
 
-Prokka is a gene annotation program. Install it by visiting this link [https://github.com/tseemann/prokka] and running the installation commands appropriate for your device
+Prokka is a gene annotation program. Install it by visiting [this link](https://github.com/tseemann/prokka) and running the installation commands appropriate for your device
 
 
 ### Data
@@ -52,7 +52,7 @@ Let’s see this in a more visual way. We’re interested in the test.contigs.gf
 
 
 ## Assembly Visualization
-Open Bandage and a GUI window should pop up. In the toolbar, click Fie > Load Graph, and select the test.contigs.gfa. You should see something like the following:
+Open Bandage and a GUI window should pop up. In the toolbar, click File > Load Graph, and select the test.contigs.gfa. You should see something like the following:
 
 
 [BANDAGE IMAGE]
