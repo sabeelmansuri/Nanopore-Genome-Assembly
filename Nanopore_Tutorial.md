@@ -27,7 +27,7 @@ Prokka is a gene annotation program. Install it by visiting [this link](https://
 
 
 ### Data
-### TODO, are we providing access to this dataset?
+### TODO, how are we providing access to this data? If this is an internal tutorial, link to drive will work. If not then not sure
 2018.12.02_SWI_9_2, Isolate from local saline lake, 18 runs/fastq files. Saved under runs_fastq directory.
 
 
@@ -87,3 +87,5 @@ The newly created circular directory contains various files with data on the gen
 
 
 ## Summary
+The analysis above has taken Oxford Nanopore sequenced data, assmebled contigs, identified the closest matching
+organism and annotated its genome.
