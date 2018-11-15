@@ -23,7 +23,7 @@ Bandage is an assembly visualization software. Install it by visiting [this link
 
 
 ### Prokka
-Prokka is a gene annotation program. Install it by visiting [this link](https://github.com/tseemann/prokka) and running the installation commands appropriate for your device.
+Prokka is a gene annotation program. Install it by visiting [this link](https://github.com/tseemann/prokka), and running the installation commands appropriate for your device.
 
 
 ### Data
