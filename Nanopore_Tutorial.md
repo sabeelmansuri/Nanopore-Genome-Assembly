@@ -19,7 +19,7 @@ make
 ```
 
 ### Bandage
-Bandage is an assembly visualization software. Install it by visiting [this link] (https://github.com/rrwick/Bandage/releases/), and downloading the version appropriate for your device.
+Bandage is an assembly visualization software. Install it by visiting [this link](https://github.com/rrwick/Bandage/releases/), and downloading the version appropriate for your device.
 
 
 ### Prokka
