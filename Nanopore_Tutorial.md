@@ -88,4 +88,4 @@ The newly created circular directory contains various files with data on the gen
 
 ## Summary
 The analysis above has taken Oxford Nanopore sequenced data, assmebled contigs, identified the closest matching
-organism and annotated its genome.
+organism, and annotated its genome.
