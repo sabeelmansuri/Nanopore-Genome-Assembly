@@ -1,6 +1,10 @@
 # Tutorial: Nanopore Analysis Pipeline
 
-The following is a tutorial that demonstrates a pipeline used for analysis of Oxford Nanopore genetic data. This tutorial will require the following (brief installation instructions are included below):
+## Introduction
+
+The following is a tutorial that demonstrates a pipeline used for analysis of Oxford Nanopore genetic data. It is written by Sabeel Mansuri, an Undergraduate Research Assistant for the Bowman Lab at the Scripps Institute of Oceanography, University of California San Diego. 
+
+This tutorial will require the following (brief installation instructions are included below):
 
 [Canu Assembler](https://canu.readthedocs.io/en/latest/)  
 [Bandage](https://rrwick.github.io/Bandage/)  
@@ -27,8 +31,14 @@ Prokka is a gene annotation program. Install it by visiting [this link](https://
 
 
 ### Data
-### TODO, how are we providing access to this data? If this is an internal tutorial, link to drive will work. If not then not sure
-2018.12.02_SWI_9_2, Isolate from local saline lake, 18 runs/fastq files. Saved under runs_fastq directory.
+Download the nanopore dataset located [here](TODO). For context, this is an isolate from a sample taken from a local saline lake at [South Bay Salt Works](https://en.wikipedia.org/wiki/South_Bay_Salt_Works) near San Diego, California.
+
+The download will provide a tarball. Extract it:
+```
+tar -xvf nanopore.tar.gz
+```
+
+This will create a runs_fastq folder containing 8 fastq files containing genetic data.
 
 
 ## Assembly
