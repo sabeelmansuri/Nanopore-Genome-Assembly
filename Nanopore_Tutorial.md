@@ -11,7 +11,7 @@ This tutorial will require the following (brief installation instructions are in
 [Prokka](https://github.com/tseemann/prokka)  
 
 
-## Installation
+## Software Installation
 ### Canu
 
 Canu is a packaged correction, trimming, and assembly program that is forked from the Celera assembler codebase. Install the latest release by running the following:
@@ -30,10 +30,11 @@ Bandage is an assembly visualization software. Install it by visiting [this link
 Prokka is a gene annotation program. Install it by visiting [this link](https://github.com/tseemann/prokka), and running the installation commands appropriate for your device.
 
 
-### Data
-Download the nanopore dataset located [here](TODO). For context, this is an isolate from a sample taken from a local saline lake at [South Bay Salt Works](https://en.wikipedia.org/wiki/South_Bay_Salt_Works) near San Diego, California.
+## Dataset
+Download the nanopore dataset located [here](TODO). This is an isolate from a sample taken from a local saline lake at [South Bay Salt Works](https://en.wikipedia.org/wiki/South_Bay_Salt_Works) near San Diego, California.
 
 The download will provide a tarball. Extract it:
+
 ```
 tar -xvf nanopore.tar.gz
 ```
