@@ -62,7 +62,7 @@ Running this command will output various files into the test_canu directory. The
 ## Assembly Visualization
 Opening Bandage and a GUI window should pop up. In the toolbar, click File > Load Graph, and select the test.contigs.gfa. You should see something like the following:
 
-<br /><img src="https://github.com/sabeelmansuri/bowman_archive/blob/master/Bandage.png" width="300"><br />
+<br /><img src="https://github.com/sabeelmansuri/Nanopore-Genome-Assembly/blob/master/Tutorials/Bandage.png" width="300"><br />
 
 This graph reveals that one of our contigs appears to be a whole circular chromosome! A quick comparison with the test.contigs.fasta file reveals this is Contig 1. We extract only this sequence from the contigs file to examine further. Note that the first contig takes up the first 38,673 lines of the file, so use `head`:
 
